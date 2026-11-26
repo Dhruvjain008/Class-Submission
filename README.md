@@ -1,2 +1,2 @@
 # Class-Submission
-assignments , 
+all assignments
